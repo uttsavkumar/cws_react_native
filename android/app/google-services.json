@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "519771544574",
+    "project_id": "logincws",
+    "storage_bucket": "logincws.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519771544574:android:946d8a4cacea6791fbbeaf",
+        "android_client_info": {
+          "package_name": "com.cws_native"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519771544574-fb40qsg71gsri6ddut8ecembvam9hcjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cws_native",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "519771544574-vlth8v6q8ncuhrfim26g5d129fal3tj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8V1SSXzkFiiET_PKlnzzlyH-yVSW9AB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519771544574-vlth8v6q8ncuhrfim26g5d129fal3tj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
